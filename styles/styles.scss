@@ -2,12 +2,14 @@ html{
 
 }
 body{
-
 }
 .wrapper {
+    margin: 0 auto;
     width: 595px;
     height: 842px;
-
+    border: 2px solid grey;
+    border-radius: 5px;
+    box-shadow: 10px 15px 5px 0 grey;
 }
 .header {
     width: 595px;
