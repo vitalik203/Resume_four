@@ -13,9 +13,9 @@
   "author": "Vitalii",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/vitalik203/Resume_four/issues"
+    "url": "https://github.com/vitalik203/Resume_four.git"
   },
-  "homepage": "https://github.com/vitalik203/Resume_four#readme",
+  "homepage": "https://github.com/vitalik203/Resume_four.git",
   "devDependencies": {
     "@semantic-release/changelog": "^6.0.3",
     "@semantic-release/commit-analyzer": "^11.1.0",

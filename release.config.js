@@ -1,6 +1,6 @@
 module.exports = {
     branches: ['master'],
-    repositoryUrl: 'https://github.com/vitalik203/Resume-three.git',
+    repositoryUrl: 'https://github.com/vitalik203/Resume_four.git',
     plugins: [
       '@semantic-release/commit-analyzer',
       '@semantic-release/release-notes-generator',
