@@ -11,4 +11,6 @@
   width: 595px;
   height: 176px;
   flex-shrink: 0;
+  background: #F9F9F9;
+  display: grid;
 }/*# sourceMappingURL=styles.css.map */

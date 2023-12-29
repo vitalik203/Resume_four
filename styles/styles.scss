@@ -15,10 +15,24 @@ body{
     width: 595px;
 height: 176px;
 flex-shrink: 0;
+background: #F9F9F9;
+display: grid;
 }
 .header__col1 {
+    .col1__name {
+    }
+    .col1__proffession {
+    }
+    .col1__description {
+    }
 }
 .header__col2 {
+    .contact__block {
+    }
+    .contact__title {
+    }
+    .contact__content {
+    }
 }
 .main {
 }
