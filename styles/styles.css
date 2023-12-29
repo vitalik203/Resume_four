@@ -5,6 +5,7 @@
   border: 2px solid grey;
   border-radius: 5px;
   box-shadow: 10px 15px 5px 0 grey;
+  overflow: hidden;
 }
 
 .header {
@@ -13,4 +14,59 @@
   flex-shrink: 0;
   background: #F9F9F9;
   display: grid;
+  grid-template-columns: 1fr 1fr;
+  padding: 32px 32px 0 32px;
+  -moz-column-gap: 40px;
+       column-gap: 40px;
+}
+
+.header__col1 .col1__name {
+  color: #222;
+  font-family: Poppins;
+  font-size: 26px;
+  font-style: normal;
+  font-weight: 700;
+  line-height: 34px; /* 130.769% */
+}
+.header__col1 .col1__proffession {
+  color: #0E6CC2;
+  font-family: Poppins;
+  font-size: 16px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 24px; /* 150% */
+  margin-bottom: 14px;
+}
+.header__col1 .col1__description {
+  color: #222;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: 14px; /* 140% */
+  width: 313px;
+}
+
+.header__col2 p {
+  margin: 0;
+}
+.header__col2 .contact__title {
+  padding: 0;
+  color: #8B8B8B;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 14px; /* 140% */
+}
+.header__col2 .contact__content {
+  display: block;
+  color: #222;
+  font-family: Poppins;
+  font-size: 10px;
+  font-style: normal;
+  font-weight: 600;
+  line-height: 14px; /* 140% */
+  text-decoration-line: underline;
+  margin-bottom: 12px;
 }/*# sourceMappingURL=styles.css.map */
