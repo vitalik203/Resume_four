@@ -1,1 +1,10 @@
-/*# sourceMappingURL=styles.css.map */
+.wrapper {
+  width: 595px;
+  height: 842px;
+}
+
+.header {
+  width: 595px;
+  height: 176px;
+  flex-shrink: 0;
+}/*# sourceMappingURL=styles.css.map */
